@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\bin\Debug\POP_QUIZ_A.exe.config
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\bin\Debug\POP_QUIZ_A.exe
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\bin\Debug\POP_QUIZ_A.pdb
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\obj\Debug\POP_QUIZ_A.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\obj\Debug\POP_QUIZ_A.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\obj\Debug\POP_QUIZ_A.exe
+C:\Users\asus\source\repos\POP_QUIZ_A\POP_QUIZ_A\obj\Debug\POP_QUIZ_A.pdb
